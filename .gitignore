@@ -1,1 +1,3 @@
-data
+data/
+data/*.nii
+data/*.dat
